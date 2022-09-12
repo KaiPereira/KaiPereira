@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @KaiPereira
-- 👀 I’m interested in ... Cascading Style Sheets, HyperText Markup Language, Javascript, C# and Python
-- 🌱 I’m currently learning ... Cascading Style Sheets, Hypertext Markup Language and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Totally not a nerd...
 
-<!---
-KaiPereira/KaiPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="![image](https://user-images.githubusercontent.com/88850028/189669486-dcdddfa1-980a-4af6-975e-c63eff9200a6.png)" />
+
+Founder @ KNP Media - Google Ads Agency promoting businesses online, UI/UX Designer, Frontend/Backend/Fullstack Developer/Freelancer, Web3 Nerd and Enthusiast working to make the world more decentralized and empowering user freedom and Crypto/NFT Kid.
