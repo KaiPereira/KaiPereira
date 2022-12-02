@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and different area's of design**
 
-- 👯 I’m looking to collaborate on **really anytime**
+- 👯 I’m looking to collaborate **really anytime**
 
 - 🤝 I’m looking for help with **learning ML and Neural Nets**
 
