@@ -24,8 +24,11 @@
 - ⚡ Fun fact **I'm slightly strange**
 
 <h3 align="left">Awards:</h3>
+
 - SparkToCode's SpreadLove Hackathon - 1st Overall and Best Web Hosted
+
 - Give Back Hacks 3 - Best Sociak Good
+
 - Mega Hack 2022 - Best Climate Category
 
 <h3 align="left">Connect with me:</h3>
