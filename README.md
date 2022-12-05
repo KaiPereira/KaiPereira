@@ -27,7 +27,7 @@
 
 - SparkToCode's SpreadLove Hackathon - 1st Overall and Best Web Hosted
 
-- Give Back Hacks 3 - Best Sociak Good
+- Give Back Hacks 3 - Best Social Good
 
 - Mega Hack 2022 - Best Climate Category
 
