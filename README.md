@@ -23,6 +23,11 @@
 
 - ⚡ Fun fact **I'm slightly strange**
 
+<h3 align="left">Awards:</h3>
+- SparkToCode's SpreadLove Hackathon - 1st Overall and Best Web Hosted
+- Give Back Hacks 3 - Best Sociak Good
+- Mega Hack 2022 - Best Climate Category
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaipereira7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaipereira7" height="30" width="40" /></a>
