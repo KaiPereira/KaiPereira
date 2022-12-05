@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kai-pereira-ba5632237/](https://www.linkedin.com/in/kai-pereira-ba5632237/)
 
-- ⚡ Fun fact **I'm slightly strange**
+- ⚡ Fun fact **I love Axolotl's**
 
 <h3 align="left">Awards:</h3>
 
