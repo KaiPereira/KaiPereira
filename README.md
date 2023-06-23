@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
-<h3 align="center">An obsessed Full Stack Developer, UI/UX Designer and Freelancer!</h3>
+<h3 align="center">An obsessed Full Stack Developer, UI/UX Designer!</h3>
 <p align="center">
 <img src="https://cloud-mpvs8batk-hack-club-bot.vercel.app/02x-speed-ezgif.com-gif-maker.gif" width="500" height="500">
 </p>
