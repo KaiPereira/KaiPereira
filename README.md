@@ -1,6 +1,6 @@
-<h1>I'm Kai :D</h1>
+### I'm Kai :D
 
-I'm a 17 year old hacker & builder from Canada working on pcb's and hardware.
+I'm a 17 year old hacker & builder from Canada buildilng the unimaginable.
 
 Check out my projects: https://kaipereira.com/
 
