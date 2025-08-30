@@ -3,9 +3,9 @@
 I'm a 17 year old maker from Canada hacking on PCB's, building hardware and exploring!
 
 I've done a lot of cool things like:
-- Run my own popup cafe in China
-- Run my own hackathon with the goal of building the dumbest thing possible
-- Went on an 8-day cross-country train hackathon with other hackers
+- Ran a popup cafe in China with other hackers
+- Ran my own hackathon with the goal of building the dumbest thing possible
+- Went on an 8-day cross-country train hackathon across Canada
 - Attended one of the largest hardware hackathons for highschoolers in SF
 - And so much more!
 
