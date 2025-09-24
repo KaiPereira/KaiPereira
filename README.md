@@ -1,18 +1,20 @@
 ### Hey there, I'm Kai!
 
-I'm a 17 year old maker from Canada hacking on PCB's, building hardware and exploring!
+I'm a 17 year old maker from Canada hacking on PCB's, building hardware and travelling!
 
 I've done a lot of cool things like:
 - Ran a popup cafe in China with other hackers
 - Ran my own hackathon with the goal of building the dumbest thing possible
 - Went on an 8-day cross-country train hackathon across Canada
 - Attended one of the largest hardware hackathons for highschoolers in SF
+- Went to Canada's largest hackathon, Hack the North in waterloo!
 - And so much more!
 
 You can read about all my cool adventures in my [journal](https://kaipereira.com/journal)!
 
 Current I'm designing an: 
 - [8-node ITX cluster board](https://github.com/KaiPereira/Cluster-Board)
+- [SODIMM CM5/CM4 Jetson Pin-Compatible Carrier](https://github.com/KaiPereira/Cluster-Board)
 
 I'm actively building a: 
 - [stacked acrylic keyboard](https://github.com/KaiPereira/PR1SM)
