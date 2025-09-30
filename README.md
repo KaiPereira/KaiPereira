@@ -21,4 +21,7 @@ I'm actively building a:
 - [cyberpunk themed macropad](https://github.com/KaiPereira/CYBERPAD-01)
 - [3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
+I just finished making:
+- [an RP2040 based devboard tutorial](https://github.com/KaiPereira/build-a-devboard)
+
 My email is kaipereira2020@gmail.com and you can find me on slack @Kai Pereira!
