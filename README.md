@@ -13,7 +13,7 @@ I've done a lot of cool things like:
 You can read about all my cool adventures in my [journal](https://kaipereira.com/journal)!
 
 Current I'm designing a: 
-- [SODIMM CM5/CM4 Jetson Compatible Carrier](https://github.com/KaiPereira/Cluster-Board)
+- [solar powered LoRa devboard](https://github.com/KaiPereira/Helios)
 
 I'm actively building a: 
 - [stacked acrylic keyboard](https://github.com/KaiPereira/PR1SM)
