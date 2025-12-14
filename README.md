@@ -14,6 +14,7 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 
 Current I'm designing a: 
 - [solar powered LoRa devboard](https://github.com/KaiPereira/Helios)
+- [PCB badges for a hackathon in singapore](https://github.com/KaiPereira/Overglade-Badges)
 
 I'm actively building a: 
 - [stacked acrylic keyboard](https://github.com/KaiPereira/PR1SM)
