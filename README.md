@@ -5,7 +5,7 @@ I'm a 17 year old maker from Canada hacking on PCB's, building hardware and trav
 I've done a lot of cool things like:
 - Ran a popup cafe in China with other hackers
 - Ran my own hackathon with the goal of building the dumbest thing possible
-- Went on an 8-day cross-country train hackathon across Canada
+- Went on an 4-day cross-country train hackathon across Canada
 - Attended one of the largest hardware hackathons for highschoolers in SF
 - Went to Canada's largest hackathon, Hack the North in waterloo!
 - And so much more!
@@ -15,6 +15,7 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 Current I'm designing a: 
 - [solar powered LoRa devboard](https://github.com/KaiPereira/Helios)
 - [PCB badges for a hackathon in singapore](https://github.com/KaiPereira/Overglade-Badges)
+- [an M.2 M-Key, PCIe FPGA accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
 
 I'm actively building a: 
 - [stacked acrylic keyboard](https://github.com/KaiPereira/PR1SM)
