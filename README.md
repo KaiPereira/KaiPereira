@@ -6,7 +6,7 @@ I've done a lot of cool things like:
 - Ran a popup cafe in China with other hackers
 - Ran my own hackathon with the goal of building the dumbest thing possible
 - Went on an 4-day cross-country train hackathon across Canada
-- Attended one of the largest hardware hackathons for highschoolers in SF
+- Went to GitHub HQ for the largest hardware hackathon for highschoolers in SF
 - Went to Canada's largest hackathon, Hack the North in waterloo!
 - And so much more!
 
