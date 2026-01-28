@@ -14,7 +14,6 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 
 Current I'm designing a: 
 - [solar powered LoRa devboard](https://github.com/KaiPereira/Helios)
-- [PCB badges for a hackathon in singapore](https://github.com/KaiPereira/Overglade-Badges)
 - [an M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
 
 I'm actively building a: 
@@ -24,5 +23,6 @@ I'm actively building a:
 I just finished making:
 - [an RP2040 based devboard tutorial](https://github.com/KaiPereira/build-a-devboard)
 - [cyberpunk themed macropad](https://github.com/KaiPereira/CYBERPAD-01)
+- [PCB badges for a hackathon in singapore (they look SICK)](https://github.com/KaiPereira/Overglade-Badges)
 
 My email is kaipereira2020@gmail.com and you can find me on slack @Kai Pereira!
