@@ -13,7 +13,7 @@ I've done a lot of cool things like:
 You can read about all my cool adventures in my [journal](https://kaipereira.com/journal)!
 
 Current I'm designing a: 
-- [an M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
+- [M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
 - [solar powered LoRa devboard](https://github.com/KaiPereira/Helios)
 
 I'm actively building a: 
