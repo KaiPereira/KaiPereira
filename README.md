@@ -14,10 +14,10 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 
 Current I'm designing a: 
 - [M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
-- [solar powered LoRa devboard](https://github.com/KaiPereira/Helios)
 
 I'm actively building a: 
 - [stacked acrylic keyboard](https://github.com/KaiPereira/PR1SM)
+- [solar powered LoRa weather station](https://github.com/KaiPereira/Helios)
 
 I just finished making:
 - [an RP2040 based devboard tutorial](https://github.com/KaiPereira/build-a-devboard)
