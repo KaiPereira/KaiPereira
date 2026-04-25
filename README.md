@@ -21,7 +21,6 @@ I'm actively building a:
 
 I just finished making:
 - [an RP2040 based devboard tutorial](https://github.com/KaiPereira/build-a-devboard)
-- [cyberpunk themed macropad](https://github.com/KaiPereira/CYBERPAD-01)
 - [PCB badges for a hackathon in singapore (they look SICK)](https://github.com/KaiPereira/Overglade-Badges)
 - [3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
