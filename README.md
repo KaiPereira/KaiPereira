@@ -13,6 +13,7 @@ I'm an 18 year old maker from Canada hacking on PCB's, building hardware and tra
 You can read about all my cool adventures in my [journal](https://kaipereira.com/journal)!
 
 #### Current I'm designing a: 
+- [Fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
 - [M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
 
 #### I'm actively building a: 
