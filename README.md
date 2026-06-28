@@ -14,11 +14,11 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 
 #### Currently I'm designing a: 
 - [M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
-- [fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
 
 #### I'm actively building a: 
 - [stacked acrylic keyboard](https://github.com/KaiPereira/PR1SM)
 - [solar powered LoRa weather station](https://github.com/KaiPereira/Helios)
+- [fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
 
 #### I just finished making:
 - [an RP2040 based devboard tutorial](https://github.com/KaiPereira/build-a-devboard)
