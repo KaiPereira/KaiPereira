@@ -16,7 +16,6 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 - [M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
 
 #### I'm actively building a: 
-- [stacked acrylic keyboard](https://github.com/KaiPereira/PR1SM)
 - [solar powered LoRa weather station](https://github.com/KaiPereira/Helios)
 - [fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
 
