@@ -6,7 +6,7 @@ I'm an 18 year old maker from Canada hacking on PCB's, building hardware and tra
 - Ran a popup cafe in China with other hackers
 - Ran my own hackathon with the goal of building the dumbest thing possible
 - Went on an 4-day cross-country train hackathon across Canada
-- Went to GitHub HQ for the largest hardware hackathon for highschoolers in SF
+- Attended the worlds largest hardware hackathon at GitHub HQ in SF, and exhibited at Open Sauce
 - Went to Canada's largest hackathon, Hack the North in waterloo!
 - And so much more!
 
