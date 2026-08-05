@@ -21,7 +21,7 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 
 #### I just finished making:
 - [Alchemical-cosmological PCB badges](https://github.com/KaiPereira/Alchemical-Cosmological-Badges)
-- [PCB badges for a hackathon in singapore (they look SICK)](https://github.com/KaiPereira/Overglade-Badges)
 - [3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
+- [PCB badges for a hackathon in singapore (they look SICK)](https://github.com/KaiPereira/Overglade-Badges)
 
 My email is kaipereira2020@gmail.com and you can find me on slack @Kai the Jolly Guy!
