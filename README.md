@@ -16,10 +16,11 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 - [M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
 
 #### I'm actively building a: 
-- [fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
-- [solar powered LoRa weather station](https://github.com/KaiPereira/Helios)
+- [Fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
+- [Solar powered LoRa weather station](https://github.com/KaiPereira/Helios)
 
 #### I just finished making:
+- [Alchemical-cosmological PCB badges](https://github.com/KaiPereira/Alchemical-Cosmological-Badges)
 - [PCB badges for a hackathon in singapore (they look SICK)](https://github.com/KaiPereira/Overglade-Badges)
 - [3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 
