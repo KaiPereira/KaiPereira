@@ -15,7 +15,7 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 #### Currently I'm designing a: 
 - [M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
 - [My first ASIC, a small SPI controller](https://github.com/KaiPereira/ASIC-V0)
-- [LED Sequencer, ASIC tutorial](https://github.com/KaiPereira/LED-Sequencer-ASIC)
+- [LED Sequencer ASIC tutorial](https://github.com/KaiPereira/LED-Sequencer-ASIC)
 
 #### I'm actively building a: 
 - [Fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
