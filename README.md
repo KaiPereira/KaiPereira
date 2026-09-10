@@ -1,6 +1,6 @@
 ### Hey there, I'm Kai!
 
-I'm an 18 year old maker from Canada hacking on PCB's, building hardware and travelling. I also work for Hack Club and run events around the world! 
+I'm an 18 year old maker from Canada hacking on PCB's, building hardware and travelling. I also work for Hack Club in Vermont and run events around the world! 
 
 #### I've done a lot of cool things like:
 - Ran a popup cafe in China with other hackers
