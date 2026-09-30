@@ -12,10 +12,10 @@ I'm an 18 year old maker from Canada hacking on PCB's, building hardware and tra
 
 You can read about all my cool adventures in my [journal](https://kaipereira.com/journal)!
 
-#### Currently I'm designing a: 
-- [M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
-- [My first ASIC, a small SPI slave](https://github.com/KaiPereira/ASIC-V0)
-- [LED Sequencer ASIC tutorial](https://github.com/KaiPereira/LED-Sequencer-ASIC)
+#### Currently I'm working on: 
+- [Manufacturing the first teenager-only multi-project chip with Hack Club](https://asic.hackclub.com/)
+- [An M.2 FPGA hardware accelerator devboard](https://github.com/KaiPereira/FPGA-Accelerator)
+- [An LED Sequencer ASIC tutorial](https://github.com/KaiPereira/LED-Sequencer-ASIC)
 
 #### I'm actively building a: 
 - [Fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
@@ -25,5 +25,6 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 - [Alchemical-cosmological PCB badges](https://github.com/KaiPereira/Alchemical-Cosmological-Badges)
 - [3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
 - [PCB badges for a hackathon in singapore (they look SICK)](https://github.com/KaiPereira/Overglade-Badges)
+- [My first ASIC, a small SPI slave](https://github.com/KaiPereira/ASIC-V0)
 
 My email is kaipereira2020@gmail.com and you can find me on slack @Kai the Jolly Guy!
