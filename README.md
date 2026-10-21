@@ -28,5 +28,3 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 - [My first ASIC, a small SPI slave](https://github.com/KaiPereira/ASIC-V0)
 
 My email is kaipereira2020@gmail.com and you can find me on slack @Kai the Jolly Guy!
-
-<img width="88" height="31" alt="Kai&#39;s 88x31 Button1" src="https://github.com/user-attachments/assets/9551f91d-511c-4731-9745-74aa21dd8352" />
