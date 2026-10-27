@@ -23,8 +23,7 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 
 #### I just finished making:
 - [Alchemical-cosmological PCB badges](https://github.com/KaiPereira/Alchemical-Cosmological-Badges)
-- [3D printer motherboard](https://github.com/KaiPereira/Cheetah-MX4-Mini)
-- [PCB badges for a hackathon in singapore (they look SICK)](https://github.com/KaiPereira/Overglade-Badges)
+- [Laser Tag SAOs](https://github.com/KaiPereira/Laser-Tag-SAO)
 - [My first ASIC, a small SPI slave](https://github.com/KaiPereira/ASIC-V0)
 
 My email is kaipereira2020@gmail.com and you can find me on slack @Kai the Jolly Guy!
