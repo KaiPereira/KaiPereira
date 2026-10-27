@@ -20,10 +20,10 @@ You can read about all my cool adventures in my [journal](https://kaipereira.com
 #### I'm actively building a: 
 - [Fold-up, cross-cantilever, scissor lift 3D printer](https://github.com/KaiPereira/Foldup-3D-Printer)
 - [Solar powered LoRa weather station](https://github.com/KaiPereira/Helios)
+- [Laser Tag SAOs for Hackaday Supercon](https://github.com/KaiPereira/Laser-Tag-SAO)
 
 #### I just finished making:
 - [Alchemical-cosmological PCB badges](https://github.com/KaiPereira/Alchemical-Cosmological-Badges)
-- [Laser Tag SAOs](https://github.com/KaiPereira/Laser-Tag-SAO)
 - [My first ASIC, a small SPI slave](https://github.com/KaiPereira/ASIC-V0)
 
 My email is kaipereira2020@gmail.com and you can find me on slack @Kai the Jolly Guy!
